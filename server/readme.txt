@@ -1,3 +1,8 @@
+!.Akshay Salunkhe
+  salunkheakshay121@gmail.com
+2.CRUD api -->test --> payment is saving all three below data
+
+
 install first paclages by "npm install" for slient and server both folder
 {
              .env files
